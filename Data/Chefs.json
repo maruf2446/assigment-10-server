@@ -1,0 +1,302 @@
+[
+    {
+      "id": "1",
+      "chef_picture": "https://www.gluwee.com/wp-content/uploads/2022/09/CZN-Burak.jpg",
+      "chef_name": "CZN Burak",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "likes": 1000,
+      "view": "view Recipes",
+      "rating": 4.5,
+      "number_recipes": 3,
+      "bio": "CZN Burak is a professional chef with over 10 years of experience in the culinary industry. She is known.",
+      "recipes": [
+        {
+          "recipe_name": "Spicy Chicken Curry",
+          "ingredients": [
+            "chicken",
+            "coconut milk",
+            "tomatoes",
+            "onions",
+            "garlic"
+          ],
+          "cooking_method": "1. Heat oil in a large pot over medium heat. 2. Add onions and garlic, cook until fragrant. 3. Add chicken and cook until browned. 4. Add tomatoes and coconut milk, bring to a simmer. 5. Add spices and cook until chicken is tender.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Grilled Salmon with Lemon and Herbs",
+          "ingredients": ["salmon", "lemon", "olive oil", "thyme", "rosemary"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon with olive oil and season with salt and pepper. 3. Grill salmon for 4-5 minutes per side. 4. Remove from grill and sprinkle with lemon juice and herbs.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Pesto Pasta with Roasted Vegetables",
+          "ingredients": ["pasta", "pesto", "zucchini", "eggplant", "red pepper"],
+          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Toss vegetables with olive oil, salt, and pepper. 3. Roast for 20-25 minutes, until tender. 4. Cook pasta according to package instructions. 5. Toss pasta with pesto and roasted vegetables.",
+          "rating": 4.3,
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "chef_picture": "https://image.khaleejtimes.com/?uuid=087e7a5d-1514-5774-8a64-8483410a41f5&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84535&x=0&y=0&width=1200&height=675",
+      "chef_name": "Faisal Naser",
+      "years_of_experience": 15,
+      "num_recipes": 100,
+      "likes": 2000,
+      "rating": 4.5,
+      "number_recipes": 3,
+      "view": "view Recipes",
+      "bio": "Faisal Naser is a classically trained chef with over 15 years of experience in some of the world's.",
+      "recipes": [
+        {
+          "recipe_name": "Risotto with Wild Mushrooms",
+          "ingredients": [
+            "arborio rice",
+            "wild mushrooms",
+            "shallots",
+            "white wine",
+            "parmesan cheese"
+          ],
+          "cooking_method": "1. Heat butter in a large saucepan over medium heat. 2. Add shallots and cook until translucent. 3. Add rice and stir to coat. 4. Add wine and cook until absorbed. 5. Gradually add hot stock, stirring constantly. 6. Add mushrooms and cook until rice is tender. 7. Stir in cheese and serve.",
+          "rating": 4.7,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Lamb Chops with Mint Pesto",
+          "ingredients": [
+            "lamb chops",
+            "mint leaves",
+            "garlic",
+            "lemon juice",
+            "olive oil"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Season lamb chops with salt and pepper. 3. Grill lamb chops for 3-4 minutes per side. 4. Combine mint, garlic, lemon juice, and olive oil in a blender. 5. Serve lamb chops with mint pesto.",
+          "rating": 4.3,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Roast Chicken with Herbed Potatoes",
+          "ingredients": ["chicken", "potatoes", "rosemary", "thyme", "garlic"],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Rub chicken with olive oil and season with salt, pepper, and herbs. 3. Place chicken in a roasting pan and roast for 1 hour. 4. Toss potatoes with olive oil, salt, pepper, and herbs. 5. Add potatoes to the pan with the chicken and roast for an additional 30 minutes.",
+          "rating": 4.6,
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "chef_picture": "https://media.timeout.com/images/103453893/750/422/image.jpg",
+      "chef_name": "Akira Back",
+      "years_of_experience": 20,
+      "num_recipes": 150,
+      "likes": 3000,
+      "rating": 4.8,
+      "number_recipes": 6,
+      "view": "view Recipes",
+      "bio": "Akira Back is a culinary mastermind with over 20 years of experience in the industry. He specializes in fusion.",
+      "recipes": [
+        {
+          "recipe_name": "Korean BBQ Tacos",
+          "ingredients": [
+            "beef short ribs",
+            "flour tortillas",
+            "kimchi",
+            "green onions",
+            "sesame seeds"
+          ],
+          "cooking_method": "1. Marinate short ribs in soy sauce, garlic, and ginger. 2. Grill short ribs until caramelized and cooked through. 3. Warm tortillas on the grill. 4. Fill tortillas with short ribs, kimchi, green onions, and sesame seeds.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Miso-Glazed Salmon",
+          "ingredients": [
+            "salmon fillets",
+            "miso paste",
+            "mirin",
+            "soy sauce",
+            "brown sugar"
+          ],
+          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Whisk together miso paste, mirin, soy sauce, and brown sugar. 3. Place salmon fillets in a baking dish and brush with miso mixture. 4. Bake for 12-15 minutes, until salmon is cooked through and glazed.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Coconut Curry Noodle Soup",
+          "ingredients": [
+            "rice noodles",
+            "coconut milk",
+            "red curry paste",
+            "chicken broth",
+            "shrimp"
+          ],
+          "cooking_method": "1. Cook rice noodles according to package instructions. 2. In a large pot, combine coconut milk, red curry paste, and chicken broth. 3. Bring to a simmer and add shrimp. 4. Simmer until shrimp are cooked through. 5. Serve soup over rice noodles.",
+          "rating": 4.7,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "chef_picture": "https://shabiba.eu-central-1.linodeobjects.com/2021/11/1637074112-1637074112-qfbpfomzf3x1.jpeg",
+      "chef_name": "Alaa Eddin AL Dakkak",
+      "years_of_experience": 12,
+      "num_recipes": 75,
+      "likes": 1200,
+      "rating": 4.2,
+      "number_recipes": 3,
+      "view": "view Recipes",
+      "bio": "Alaa Eddin is a passionate chef with 12 years of experience in the culinary industry. She has a special.",
+      "recipes": [
+        {
+          "recipe_name": "Quinoa Stuffed Bell Peppers",
+          "ingredients": [
+            "bell peppers",
+            "quinoa",
+            "black beans",
+            "corn",
+            "tomatoes"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Cut tops off bell peppers and remove seeds. 3. Cook quinoa according to package instructions. 4. Mix cooked quinoa, black beans, corn, and diced tomatoes in a large bowl. 5. Stuff bell peppers with quinoa mixture. 6. Bake for 25-30 minutes, until peppers are tender and filling is heated through.",
+          "rating": 4.3,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Grilled Chicken and Vegetable Skewers",
+          "ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "red onion",
+            "zucchini",
+            "mushrooms"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Cut chicken breast into bite-sized pieces. 3. Cut bell peppers, red onion, and zucchini into bite-sized pieces. 4. Thread chicken and vegetables onto skewers. 5. Grill skewers for 10-12 minutes, turning occasionally, until chicken is cooked through and vegetables are tender.",
+          "rating": 4.7,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Healthy Banana Oat Pancakes",
+          "ingredients": [
+            "ripe bananas",
+            "rolled oats",
+            "eggs",
+            "vanilla extract",
+            "cinnamon"
+          ],
+          "cooking_method": "1. Blend rolled oats in a blender or food processor until they form a flour-like consistency. 2. Mash ripe bananas in a large bowl. 3. Mix in blended oats, eggs, vanilla extract, and cinnamon. 4. Heat a non-stick pan over medium heat. 5. Pour batter onto pan to make pancakes. 6. Cook until bubbles form on the surface, then flip and cook until golden brown.",
+          "rating": 4.5,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "chef_picture": "https://image.khaleejtimes.com/?uuid=497d23bf-c310-45cf-8b57-4d3daa08081b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99787&x=0&y=0&width=1200&height=675",
+      "chef_name": "Nusret Gokce",
+      "years_of_experience": 20,
+      "num_recipes": 150,
+      "likes": 3500,
+      "rating": 4.3,
+      "number_recipes": 3,
+      "view": "view Recipes",
+      "bio": "Nusret Gokce is a renowned French chef with 20 years of experience in the culinary arts.",
+      "recipes": [
+        {
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "chicken thighs",
+            "bacon",
+            "pearl onions",
+            "mushrooms",
+            "red wine"
+          ],
+          "cooking_method": "1. Preheat oven to 350 degrees F. 2. Cook bacon in a large Dutch oven until crisp. 3. Remove bacon and set aside, leaving the rendered fat in the pot. 4. Brown chicken thighs in the pot until golden brown. 5. Remove chicken and set aside. 6. Add pearl onions and mushrooms to the pot and cook until browned. 7. Deglaze the pot with red wine. 8. Return chicken and bacon to the pot. 9. Cover and bake in the oven for 1 hour.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "eggplant",
+            "zucchini",
+            "red bell pepper",
+            "onion",
+            "tomatoes"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Slice eggplant, zucchini, and red bell pepper into bite-sized pieces. 3. Slice onion into thin strips. 4. Cut tomatoes into large chunks. 5. Mix vegetables in a large bowl. 6. Pour vegetable mixture into a baking dish. 7. Bake for 30-35 minutes, until vegetables are tender.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Chocolate Mousse",
+          "ingredients": [
+            "chocolate",
+            "heavy cream",
+            "egg yolks",
+            "sugar",
+            "vanilla extract"
+          ],
+          "cooking_method": "1. Melt chocolate in a double boiler. 2. Whisk egg yolks and sugar in a large bowl until pale and creamy. 3. In a separate bowl, whip heavy cream until soft peaks form. 4. Add melted chocolate and vanilla extract to egg yolk mixture and mix well. 5. Fold in whipped cream. 6. Pour mixture into individual serving dishes. 7. Chill in the refrigerator for at least 2 hours before serving.",
+          "rating": 4.9,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "chef_picture": "https://media.bizj.us/view/img/4442211/bernstein*1200xx3275-1842-0-237.jpg",
+      "chef_name": "Michelee Bernstrin",
+      "years_of_experience": 20,
+      "num_recipes": 150,
+      "likes": 3500,
+      "rating": 4.5,
+      "number_recipes": 3,
+      "view": "view Recipes",
+      "bio": "Michelee Bernstrin is a renowned French chef with 20 years of experience in the culinary arts..",
+      "recipes": [
+        {
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "chicken thighs",
+            "bacon",
+            "pearl onions",
+            "mushrooms",
+            "red wine"
+          ],
+          "cooking_method": "1. Preheat oven to 350 degrees F. 2. Cook bacon in a large Dutch oven until crisp. 3. Remove bacon and set aside, leaving the rendered fat in the pot. 4. Brown chicken thighs in the pot until golden brown. 5. Remove chicken and set aside. 6. Add pearl onions and mushrooms to the pot and cook until browned. 7. Deglaze the pot with red wine. 8. Return chicken and bacon to the pot. 9. Cover and bake in the oven for 1 hour.",
+          "rating": 4.8,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "eggplant",
+            "zucchini",
+            "red bell pepper",
+            "onion",
+            "tomatoes"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. 2. Slice eggplant, zucchini, and red bell pepper into bite-sized pieces. 3. Slice onion into thin strips. 4. Cut tomatoes into large chunks. 5. Mix vegetables in a large bowl. 6. Pour vegetable mixture into a baking dish. 7. Bake for 30-35 minutes, until vegetables are tender.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Chocolate Mousse",
+          "ingredients": [
+            "chocolate",
+            "heavy cream",
+            "egg yolks",
+            "sugar",
+            "vanilla extract"
+          ],
+          "cooking_method": "1. Melt chocolate in a double boiler. 2. Whisk egg yolks and sugar in a large bowl until pale and creamy. 3. In a separate bowl, whip heavy cream until soft peaks form. 4. Add melted chocolate and vanilla extract to egg yolk mixture and mix well. 5. Fold in whipped cream. 6. Pour mixture into individual serving dishes. 7. Chill in the refrigerator for at least 2 hours before serving.",
+          "rating": 4.9,
+          "favorite": true
+        }
+      ]
+    }
+  ]
